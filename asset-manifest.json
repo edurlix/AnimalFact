@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/edurlix/AnimalFact.git/static/css/main.5013ede1.css",
-    "main.js": "/edurlix/AnimalFact.git/static/js/main.973107cc.js",
-    "static/js/787.9c5c9233.chunk.js": "/edurlix/AnimalFact.git/static/js/787.9c5c9233.chunk.js",
-    "static/media/lobster.jpg": "/edurlix/AnimalFact.git/static/media/lobster.43bbcbdcf736a75aa982.jpg",
-    "static/media/ocean.jpg": "/edurlix/AnimalFact.git/static/media/ocean.e120c3d903e04747684b.jpg",
-    "static/media/dolphin.jpg": "/edurlix/AnimalFact.git/static/media/dolphin.5cb61a16680997168a0d.jpg",
-    "static/media/starfish.jpg": "/edurlix/AnimalFact.git/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
-    "index.html": "/edurlix/AnimalFact.git/index.html",
-    "main.5013ede1.css.map": "/edurlix/AnimalFact.git/static/css/main.5013ede1.css.map",
-    "main.973107cc.js.map": "/edurlix/AnimalFact.git/static/js/main.973107cc.js.map",
-    "787.9c5c9233.chunk.js.map": "/edurlix/AnimalFact.git/static/js/787.9c5c9233.chunk.js.map"
+    "main.css": "/animalfact/static/css/main.5013ede1.css",
+    "main.js": "/animalfact/static/js/main.d0ebf298.js",
+    "static/js/787.9c5c9233.chunk.js": "/animalfact/static/js/787.9c5c9233.chunk.js",
+    "static/media/lobster.jpg": "/animalfact/static/media/lobster.43bbcbdcf736a75aa982.jpg",
+    "static/media/ocean.jpg": "/animalfact/static/media/ocean.e120c3d903e04747684b.jpg",
+    "static/media/dolphin.jpg": "/animalfact/static/media/dolphin.5cb61a16680997168a0d.jpg",
+    "static/media/starfish.jpg": "/animalfact/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
+    "index.html": "/animalfact/index.html",
+    "main.5013ede1.css.map": "/animalfact/static/css/main.5013ede1.css.map",
+    "main.d0ebf298.js.map": "/animalfact/static/js/main.d0ebf298.js.map",
+    "787.9c5c9233.chunk.js.map": "/animalfact/static/js/787.9c5c9233.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5013ede1.css",
-    "static/js/main.973107cc.js"
+    "static/js/main.d0ebf298.js"
   ]
 }
