@@ -1,0 +1,107 @@
+div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.background{
+    position: absolute;
+    margin-top: 80px;
+    width: 95%;
+    z-index: 1;
+}
+
+#fact{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    margin-top: 100px;
+    width: 80%;
+    font-size: 5vw;
+    z-index: 2;
+}
+
+.animals{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    width: 90%;
+    margin-top: 240px;
+    z-index: 2;
+}
+
+.animal{
+    width: 33.3%;
+}
+
+
+@media only screen and (max-width: 2560px) {
+
+    .background{
+        width: 65%;
+        height: 90%;
+    }
+
+	.animals {
+		margin-top: 300px;
+        width: 60%;
+	}
+
+    #fact{
+        margin-top: 160px;
+        font-size: 50px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 1960px) {
+
+    .background{
+        width: 85%;
+    }
+
+	.animals {
+		margin-top: 300px;
+        width: 85%;
+	}
+
+    #fact{
+        margin-top: 140px;
+        font-size: 50px;
+    }
+
+    h1{
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+	.animals {
+		margin-top: 180px;
+	}
+
+  h1 {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+	.animals {
+		margin-top: 150px;
+	}
+}
+
+@media only screen and (max-width: 300px) {
+	.animals {
+		margin-top: 130px;
+	}
+}
+
+@media only screen and (max-width: 200px) {
+	.animals {
+		margin-top: 120px;
+	}
+}
