@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/animalfact/static/css/main.5013ede1.css",
-    "main.js": "/animalfact/static/js/main.d0ebf298.js",
-    "static/js/787.9c5c9233.chunk.js": "/animalfact/static/js/787.9c5c9233.chunk.js",
-    "static/media/lobster.jpg": "/animalfact/static/media/lobster.43bbcbdcf736a75aa982.jpg",
-    "static/media/ocean.jpg": "/animalfact/static/media/ocean.e120c3d903e04747684b.jpg",
-    "static/media/dolphin.jpg": "/animalfact/static/media/dolphin.5cb61a16680997168a0d.jpg",
-    "static/media/starfish.jpg": "/animalfact/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
-    "index.html": "/animalfact/index.html",
-    "main.5013ede1.css.map": "/animalfact/static/css/main.5013ede1.css.map",
-    "main.d0ebf298.js.map": "/animalfact/static/js/main.d0ebf298.js.map",
-    "787.9c5c9233.chunk.js.map": "/animalfact/static/js/787.9c5c9233.chunk.js.map"
+    "main.css": "/AnimalFact/static/css/main.5013ede1.css",
+    "main.js": "/AnimalFact/static/js/main.80a322b0.js",
+    "static/js/787.9c5c9233.chunk.js": "/AnimalFact/static/js/787.9c5c9233.chunk.js",
+    "static/media/lobster.jpg": "/AnimalFact/static/media/lobster.43bbcbdcf736a75aa982.jpg",
+    "static/media/ocean.jpg": "/AnimalFact/static/media/ocean.e120c3d903e04747684b.jpg",
+    "static/media/dolphin.jpg": "/AnimalFact/static/media/dolphin.5cb61a16680997168a0d.jpg",
+    "static/media/starfish.jpg": "/AnimalFact/static/media/starfish.72306ab85ba5ca59c9ae.jpg",
+    "index.html": "/AnimalFact/index.html",
+    "main.5013ede1.css.map": "/AnimalFact/static/css/main.5013ede1.css.map",
+    "main.80a322b0.js.map": "/AnimalFact/static/js/main.80a322b0.js.map",
+    "787.9c5c9233.chunk.js.map": "/AnimalFact/static/js/787.9c5c9233.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5013ede1.css",
-    "static/js/main.d0ebf298.js"
+    "static/js/main.80a322b0.js"
   ]
 }
